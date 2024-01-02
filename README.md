@@ -18,6 +18,7 @@ Create another empty text file.
 Copy the content of text file to empty file using write function.
 
 ## PROGRAM:
+```
 #Program for copying the contents from one file to another file
 #Developed by: SHYAM S
 #Register Number: 23012478
@@ -26,6 +27,7 @@ with open("shyam.txt",'r') as file1:
     msg=file1.read()
 with open("shyamnew.txt",'w') as file2:
     file2.write(msg)
+```
     
 
 ## OUTPUT:
