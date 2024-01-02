@@ -8,7 +8,14 @@ To write a python program for copying the contents from one file to another file
 PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
-
+### Step 1:
+Create a text file with some content in it.
+### Step 2: 
+Open the created text file.
+### Step 3: 
+Create another empty text file.
+### Step 4:  
+Copy the content of text file to empty file using write function.
 
 ## PROGRAM:
 #Program for copying the contents from one file to another file
